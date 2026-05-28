@@ -9,7 +9,7 @@
 
 main:
   - title: "Research"
-    url: /research/
+    url: "https://scholar.google.com/citations?hl=en&user=AO-ytDwAAAAJ"
     
   - title: "Teaching"
     url: /teaching/    
