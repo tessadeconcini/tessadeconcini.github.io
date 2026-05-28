@@ -11,24 +11,27 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?hl=en&user=AO-ytDwAAAAJ
 
-  - title: "Ongoing Research"
-    url: /publications/
-    
-  - title: "Teaching"
-    url: /teaching/    
+#  NEED TO PICK UP EDITING HERE
+#  - title: "Ongoing Research"
+#    url: /publications/
+
+# EDIT
+#  - title: "Teaching"
+#    url: /teaching/    
 
   - title: "CV"
     url: /files/DeConcini_Theresa_CV.pdf
 
+# EDIT
+#  - title: "In the Media"
+#    url: /year-archive/
+
+# UNNECESSARY RIGHT NOW
 #  - title: "Talks"
  #   url: /talks/   
     
 #  - title: "Portfolio"
 #    url: /portfolio/
-        
-  - title: "In the Media"
-    url: /year-archive/
-    
     
   # - title: "CV"
   #   url: /cv-json/
