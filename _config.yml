@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast" # NEED TO GO INTO THE SASS THEME AND CHANGE TO FIT MY EXACT PREFERENCES WITH FONT AND COLOR
 title                    : "About Tessa"
 title_separator          : "-"
 name                     : &name "Theresa (Tessa) DeConcini"
