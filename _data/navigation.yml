@@ -21,8 +21,9 @@ main:
 # - title: "Teaching"
 #    url: /teaching/    
 
-  - title: "In the Media"
-    url: /_posts/
+#ADD IN ONCE THERE IS STUFF TO PUT HERE
+ # - title: "In the Media"
+ #   url: /_posts/
 
 # UNNECESSARY RIGHT NOW
 #  - title: "Talks"
