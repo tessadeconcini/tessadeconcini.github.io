@@ -4,8 +4,6 @@ collection: publications
 category: working
 permalink: 
 excerpt: 'This article is about using the Coupled Infrastructure Systems (CIS) framework to model procedural justice in pipeline infrastructure. It is currently under peer review. The manuscript is not yet available for public circulation. '
-date: 2025-11-01
-venue: 
 slidesurl:
 paperurl:
 bibtexurl:
