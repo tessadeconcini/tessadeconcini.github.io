@@ -22,7 +22,7 @@ main:
 #    url: /teaching/    
 
   - title: "In the Media"
-    url: /year-archive/
+    url: /_posts/
 
 # UNNECESSARY RIGHT NOW
 #  - title: "Talks"
