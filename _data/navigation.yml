@@ -11,15 +11,15 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?hl=en&user=AO-ytDwAAAAJ
 
+  - title: "CV"
+    url: /files/DeConcini_Theresa_CV.pdf
+
   - title: "Ongoing Research"
     url: /publications/
 
 # ADD IN ONCE TEACHING TO TALK ABOUT
 # - title: "Teaching"
 #    url: /teaching/    
-
-  - title: "CV"
-    url: /files/DeConcini_Theresa_CV.pdf
 
   - title: "In the Media"
     url: /year-archive/
