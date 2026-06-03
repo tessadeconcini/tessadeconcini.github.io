@@ -11,20 +11,18 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?hl=en&user=AO-ytDwAAAAJ
 
-#  NEED TO PICK UP EDITING HERE
-#  - title: "Ongoing Research"
-#    url: /publications/
+  - title: "Ongoing Research"
+    url: /publications/
 
-# EDIT
-#  - title: "Teaching"
+# ADD IN ONCE TEACHING TO TALK ABOUT
+# - title: "Teaching"
 #    url: /teaching/    
 
   - title: "CV"
     url: /files/DeConcini_Theresa_CV.pdf
 
-# EDIT
-#  - title: "In the Media"
-#    url: /year-archive/
+  - title: "In the Media"
+    url: /year-archive/
 
 # UNNECESSARY RIGHT NOW
 #  - title: "Talks"
