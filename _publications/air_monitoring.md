@@ -3,6 +3,8 @@ title: "Fair Share of Fresh Air? Decoding Implications of Environmental Justice 
 collection: publications
 category: projects
 permalink: /publication/air_monitoring
+date: 2026-01-01
+venue: 'Work-in-Progress'
 excerpt: 'This paper explores environmental justice concerns related to varition in regulatory policy compliance among US Air Quality Monitoring networks and their complex policy environment. It is a continuation of the work I pursued for my MS thesis and is currently a work-in-progress.'
 citation: 'DeConcini, Theresa; Hernandez-Cortes, Danae; Kroetz, Kailin; Boone, Christopher. (2026). &quot;Fair Share of Fresh Air? Decoding Implications of Environmental Justice Policy Directives in US Air Quality Monitoring Network Management.&quot; <i>Work-in-Progress</i>.'
 ---
