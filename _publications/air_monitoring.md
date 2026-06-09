@@ -1,5 +1,5 @@
 ---
-title: "Fair Share of Fresh Air? Decoding Implications of Environmental Justice Policy Directive in US Air Quality Monitoring Network Management"
+title: "Fair Share of Fresh Air? Decoding Implications of Environmental Justice Policy Directive in US Air Quality Monitoring NetwoManagement"
 collection: publications
 category: projects
 permalink: /publication/air_monitoring
