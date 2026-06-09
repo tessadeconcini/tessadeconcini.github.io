@@ -3,6 +3,8 @@ title: "Modeling procedural justice in public engagements with pipeline infrastr
 collection: publications
 category: working
 permalink: /publication/CIS_modeling
+date: 2026-01-01
+venue: 'under journal peer-review'
 excerpt: 'This article is about using the Coupled Infrastructure Systems (CIS) framework to model procedural justice in pipeline infrastructure. It is currently under peer review. The manuscript is not yet available for public circulation.'
 citation: 'Jalbert, Kirk; Hernandez-Cortes, Danae; Kuznetsov, Stacey; DeConcini, Theresa; Rodriguez, Alejandra. (2025). &quot;Modeling procedural justice in public engagements with pipeline infrastructure: a coupled
 infrastructure systems approach to examining participatory environmental governance.&quot; <i>Working Paper</i>.'
