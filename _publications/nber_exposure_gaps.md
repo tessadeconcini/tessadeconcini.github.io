@@ -1,8 +1,9 @@
+---
 title: "Is the Environmental Exposure Gap Shrinking? Evidence from an Extreme Multi-exposure Index"
 collection: publications
 category: working
 permalink: /publication/nber_exposure_gaps
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: 'We explore the distribution of joint impacts associated with multiple, extreme simultaneous exposures to heat, fine particulate matter, and air toxics in major U.S. cities.'
 date: 2026-01-26
 venue: 'NBER Working Papers'
 paperurl: 'https://www.nber.org/papers/w34739'
